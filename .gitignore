@@ -259,3 +259,21 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Library
+/Temp
+/ProjectSettings/UnityConnectSettings.asset
+/ProjectSettings/TimeManager.asset
+/ProjectSettings/TagManager.asset
+/ProjectSettings/QualitySettings.asset
+/ProjectSettings/Physics2DSettings.asset
+/ProjectSettings/NetworkManager.asset
+/ProjectSettings/NavMeshAreas.asset
+/ProjectSettings/InputManager.asset
+/ProjectSettings/GraphicsSettings.asset
+/ProjectSettings/DynamicsManager.asset
+/ProjectSettings/ClusterInputManager.asset
+/ProjectSettings/AudioManager.asset
+/ProjectSettings/EditorSettings.asset
+/ProjectSettings/EditorBuildSettings.asset
+*.csproj
+*.sln
